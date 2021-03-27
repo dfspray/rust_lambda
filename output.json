@@ -1,0 +1,1 @@
+{"errorMessage":"RequestId: 5bbf093b-fb2b-4a7c-8257-19976767792a Error: fork/exec /var/task/bootstrap: permission denied","errorType":"Runtime.InvalidEntrypoint"}
